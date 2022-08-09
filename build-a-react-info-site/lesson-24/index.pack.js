@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "PATHS.build/dist";
+/******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 8);
@@ -564,7 +564,7 @@ _reactDom2.default.render(_react2.default.createElement(_App2.default, null), do
 /* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "d5354ce4b39daad51ff8d3989b2f7611.png";
+module.exports = __webpack_require__.p + "images/react-icon-small.png";
 
 /***/ }),
 /* 10 */
